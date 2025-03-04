@@ -10,7 +10,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":1,
-    "SubCluster":1,
+    "SubClusters":1,
     "TimePeriod":"Weekly",
     "Frequency":1.8,
     "AverageImpressions":48085
@@ -25,7 +25,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":1,
-    "SubCluster":2,
+    "SubClusters":2,
     "TimePeriod":"Weekly",
     "Frequency":1.91,
     "AverageImpressions":50986
@@ -40,7 +40,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":1,
-    "SubCluster":3,
+    "SubClusters":3,
     "TimePeriod":"Weekly",
     "Frequency":1.84,
     "AverageImpressions":49246
@@ -55,7 +55,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":1,
-    "SubCluster":4,
+    "SubClusters":4,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":22685
@@ -70,7 +70,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":1,
-    "SubCluster":5,
+    "SubClusters":5,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":25586
@@ -85,7 +85,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":1,
-    "SubCluster":6,
+    "SubClusters":6,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":23846
@@ -100,7 +100,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":2,
-    "SubCluster":7,
+    "SubClusters":7,
     "TimePeriod":"Weekly",
     "Frequency":1.58,
     "AverageImpressions":42180
@@ -115,7 +115,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":2,
-    "SubCluster":8,
+    "SubClusters":8,
     "TimePeriod":"Weekly",
     "Frequency":1.69,
     "AverageImpressions":45081
@@ -130,7 +130,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":2,
-    "SubCluster":9,
+    "SubClusters":9,
     "TimePeriod":"Weekly",
     "Frequency":1.62,
     "AverageImpressions":43340
@@ -145,7 +145,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":2,
-    "SubCluster":10,
+    "SubClusters":10,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":24662
@@ -160,7 +160,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":2,
-    "SubCluster":11,
+    "SubClusters":11,
     "TimePeriod":"Weekly",
     "Frequency":1.03,
     "AverageImpressions":27563
@@ -175,7 +175,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":2,
-    "SubCluster":12,
+    "SubClusters":12,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":25822
@@ -190,7 +190,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":2,
-    "SubCluster":13,
+    "SubClusters":13,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":15343
@@ -205,7 +205,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":2,
-    "SubCluster":14,
+    "SubClusters":14,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":18244
@@ -220,7 +220,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":2,
-    "SubCluster":15,
+    "SubClusters":15,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":16504
@@ -235,7 +235,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":3,
-    "SubCluster":16,
+    "SubClusters":16,
     "TimePeriod":"Weekly",
     "Frequency":1.91,
     "AverageImpressions":51069
@@ -250,7 +250,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":3,
-    "SubCluster":17,
+    "SubClusters":17,
     "TimePeriod":"Weekly",
     "Frequency":2.02,
     "AverageImpressions":53970
@@ -265,7 +265,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":3,
-    "SubCluster":18,
+    "SubClusters":18,
     "TimePeriod":"Weekly",
     "Frequency":1.96,
     "AverageImpressions":52229
@@ -280,7 +280,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":3,
-    "SubCluster":19,
+    "SubClusters":19,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":18607
@@ -295,7 +295,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":3,
-    "SubCluster":20,
+    "SubClusters":20,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":19767
@@ -310,7 +310,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":4,
-    "SubCluster":21,
+    "SubClusters":21,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":17555
@@ -325,7 +325,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":4,
-    "SubCluster":22,
+    "SubClusters":22,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":18716
@@ -340,7 +340,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":4,
-    "SubCluster":23,
+    "SubClusters":23,
     "TimePeriod":"Weekly",
     "Frequency":1.8,
     "AverageImpressions":48114
@@ -355,7 +355,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":4,
-    "SubCluster":24,
+    "SubClusters":24,
     "TimePeriod":"Weekly",
     "Frequency":1.91,
     "AverageImpressions":51015
@@ -370,7 +370,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":4,
-    "SubCluster":25,
+    "SubClusters":25,
     "TimePeriod":"Weekly",
     "Frequency":1.85,
     "AverageImpressions":49274
@@ -385,7 +385,7 @@
     "properties": {
     "City":"Kasarani",
     "Cluster":4,
-    "SubCluster":26,
+    "SubClusters":26,
     "TimePeriod":"Weekly",
     "Frequency":1,
     "AverageImpressions":24321
