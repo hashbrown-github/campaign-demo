@@ -1,0 +1,395 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.90371353,-1.184454412 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":1,
+    "SubCluster":1,
+    "TimePeriod":"Weekly",
+    "Frequency":1.8,
+    "AverageImpressions":48085
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.90371353,-1.184454412 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":1,
+    "SubCluster":2,
+    "TimePeriod":"Weekly",
+    "Frequency":1.91,
+    "AverageImpressions":50986
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.90371353,-1.184454412 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":1,
+    "SubCluster":3,
+    "TimePeriod":"Weekly",
+    "Frequency":1.84,
+    "AverageImpressions":49246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.92883344,-1.175386488 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":1,
+    "SubCluster":4,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":22685
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.92883344,-1.175386488 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":1,
+    "SubCluster":5,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":25586
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.92883344,-1.175386488 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":1,
+    "SubCluster":6,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":23846
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.87782998,-1.224109916 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":2,
+    "SubCluster":7,
+    "TimePeriod":"Weekly",
+    "Frequency":1.58,
+    "AverageImpressions":42180
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.87782998,-1.224109916 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":2,
+    "SubCluster":8,
+    "TimePeriod":"Weekly",
+    "Frequency":1.69,
+    "AverageImpressions":45081
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.87782998,-1.224109916 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":2,
+    "SubCluster":9,
+    "TimePeriod":"Weekly",
+    "Frequency":1.62,
+    "AverageImpressions":43340
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.87649855,-1.249989153 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":2,
+    "SubCluster":10,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":24662
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.87649855,-1.249989153 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":2,
+    "SubCluster":11,
+    "TimePeriod":"Weekly",
+    "Frequency":1.03,
+    "AverageImpressions":27563
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.87649855,-1.249989153 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":2,
+    "SubCluster":12,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":25822
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.84581852,-1.226302734 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":2,
+    "SubCluster":13,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":15343
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.84581852,-1.226302734 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":2,
+    "SubCluster":14,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":18244
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.84581852,-1.226302734 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":2,
+    "SubCluster":15,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":16504
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.93199393,-1.233329045 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":3,
+    "SubCluster":16,
+    "TimePeriod":"Weekly",
+    "Frequency":1.91,
+    "AverageImpressions":51069
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.93199393,-1.233329045 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":3,
+    "SubCluster":17,
+    "TimePeriod":"Weekly",
+    "Frequency":2.02,
+    "AverageImpressions":53970
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.93199393,-1.233329045 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":3,
+    "SubCluster":18,
+    "TimePeriod":"Weekly",
+    "Frequency":1.96,
+    "AverageImpressions":52229
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9860871,-1.23288178 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":3,
+    "SubCluster":19,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":18607
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9860871,-1.23288178 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":3,
+    "SubCluster":20,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":19767
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.89901895,-1.238071623 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":4,
+    "SubCluster":21,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":17555
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.89901895,-1.238071623 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":4,
+    "SubCluster":22,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":18716
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.92114567,-1.228382938 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":4,
+    "SubCluster":23,
+    "TimePeriod":"Weekly",
+    "Frequency":1.8,
+    "AverageImpressions":48114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.92114567,-1.228382938 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":4,
+    "SubCluster":24,
+    "TimePeriod":"Weekly",
+    "Frequency":1.91,
+    "AverageImpressions":51015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.92114567,-1.228382938 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":4,
+    "SubCluster":25,
+    "TimePeriod":"Weekly",
+    "Frequency":1.85,
+    "AverageImpressions":49274
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.89983166,-1.217300736 ]
+    },
+    "properties": {
+    "City":"Kasarani",
+    "Cluster":4,
+    "SubCluster":26,
+    "TimePeriod":"Weekly",
+    "Frequency":1,
+    "AverageImpressions":24321
+    }
+  }
+]
+}
