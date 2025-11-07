@@ -1,0 +1,1539 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.7625476285726,29.4691296492752 ]
+    },
+    "properties": {
+    "Id":10284,
+    "Username":"Firoz (Muzaffarnagar, UP West)",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.9442473983182,27.217563644023 ]
+    },
+    "properties": {
+    "Id":10291,
+    "Username":"Raja Babu (UP Agra) ",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.74341520363,28.8348981139749 ]
+    },
+    "properties": {
+    "Id":10296,
+    "Username":"Vicky Verma (Moradabad, UP west)",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.446824088666,28.3963106460699 ]
+    },
+    "properties": {
+    "Id":10312,
+    "Username":"Mayank Mishra (Bareilly, UP West) ",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.7427432105036,28.9672331802626 ]
+    },
+    "properties": {
+    "Id":10316,
+    "Username":"Deepak Pundir(Meerut,UP )",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.0113137487246,29.9082886392368 ]
+    },
+    "properties": {
+    "Id":10321,
+    "Username":"Deepak Goyal( Saharanpur , UPW)",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.0028633,25.3092514864384 ]
+    },
+    "properties": {
+    "Id":10328,
+    "Username":"Gaurav Dey (Varanasi, UP)",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.6662039749313,29.9740643871398 ]
+    },
+    "properties": {
+    "Id":10330,
+    "Username":"Akshit Kahsyap (Saharanpur, UP)",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.8883508382978,26.5774994334665 ]
+    },
+    "properties": {
+    "Id":10429,
+    "Username":"Akash Panwar (Ajmer, Rajasthan)",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.8701363864748,26.945719467397 ]
+    },
+    "properties": {
+    "Id":10430,
+    "Username":"ChandraMohan Saini  (Jaipur )",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.2367122188356,27.796420098299 ]
+    },
+    "properties": {
+    "Id":10431,
+    "Username":"Pardeep Kumar ( Alwar, Rajasthan )",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.2113542354304,30.0462779395295 ]
+    },
+    "properties": {
+    "Id":10437,
+    "Username":"Akash Arora Haridwar UK",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.4288070089521,29.3715216786168 ]
+    },
+    "properties": {
+    "Id":10459,
+    "Username":"Govind Singh Haldwani Uttarakhand",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.7103665920823,24.6244059504786 ]
+    },
+    "properties": {
+    "Id":10473,
+    "Username":"Sheetal Jain ( Udaipur, Rajasthan )",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.3748599390444,25.9927860429987 ]
+    },
+    "properties": {
+    "Id":10474,
+    "Username":"Mohit Sawai Madhopur Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.3469128742602,28.0739579279455 ]
+    },
+    "properties": {
+    "Id":10475,
+    "Username":"Moin Malik Jhunjhunu Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.4785536314051,28.0256101668984 ]
+    },
+    "properties": {
+    "Id":10476,
+    "Username":"Bhuvnesh Kumar ( Rewari, Haryana)",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.7352803038965,27.7330321696286 ]
+    },
+    "properties": {
+    "Id":10477,
+    "Username":"Vikas Prajapat (Salasar, Rajasthan)",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.1128529329035,27.7983363712391 ]
+    },
+    "properties": {
+    "Id":10478,
+    "Username":"Sandeep Sikar Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.6484961051799,25.4063948338721 ]
+    },
+    "properties": {
+    "Id":10481,
+    "Username":"Ajeet Singh Kota Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.8098496524033,26.7960130354941 ]
+    },
+    "properties": {
+    "Id":10482,
+    "Username":"Mukesh Kumawat Roopangarh Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.7163771529925,26.1024856882674 ]
+    },
+    "properties": {
+    "Id":10488,
+    "Username":"Amit Sisodiya Tonk Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.0645477698424,29.2306194564237 ]
+    },
+    "properties": {
+    "Id":10490,
+    "Username":"Purnima Bazpur Uttarakhand",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.1743980168883,30.1103850881895 ]
+    },
+    "properties": {
+    "Id":10491,
+    "Username":"Dinesh Kumar Dehradun Uttarakhand",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.7196124661922,26.4809034006076 ]
+    },
+    "properties": {
+    "Id":10494,
+    "Username":"Shadab Khan Gangapur City Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.8724593206502,29.7758831179327 ]
+    },
+    "properties": {
+    "Id":10495,
+    "Username":"Shubham Paliwal Roorkee Uttarakhand",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.6046781668761,28.7944343455092 ]
+    },
+    "properties": {
+    "Id":10496,
+    "Username":"Rashid Delhi",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.3794599318528,28.8204024263253 ]
+    },
+    "properties": {
+    "Id":10498,
+    "Username":"Eklavya Sharma Amroha Uttar Pradesh",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.7636308285304,27.4651208516724 ]
+    },
+    "properties": {
+    "Id":10499,
+    "Username":"Vikesh Kumar Vrindavan UP",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.4934857749919,28.3390062079157 ]
+    },
+    "properties": {
+    "Id":10500,
+    "Username":"Karan Singh Bareilly UP",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.7400993498656,26.3021512211669 ]
+    },
+    "properties": {
+    "Id":10501,
+    "Username":"Manoj Kumar Sapotra Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.4223584798204,28.9633297674579 ]
+    },
+    "properties": {
+    "Id":10503,
+    "Username":"Sandeep Rudrapur Uttarakhand",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.948631048637,28.2841561303136 ]
+    },
+    "properties": {
+    "Id":10505,
+    "Username":"Vikram Churu Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.3661713350484,26.9807398950175 ]
+    },
+    "properties": {
+    "Id":10507,
+    "Username":"Rinku Kumar Hindaun RAjasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.8298123950778,26.9961790364853 ]
+    },
+    "properties": {
+    "Id":10508,
+    "Username":"Rajendra Meena Mehandipur Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.9925466391429,29.5612992428548 ]
+    },
+    "properties": {
+    "Id":10509,
+    "Username":"Dinesh Sethi Pithorgarh, Nainital Uttarakhand",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.3261387781322,29.8587197038239 ]
+    },
+    "properties": {
+    "Id":10510,
+    "Username":"Giridharchand Masi Uttarakhand",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.648778630883,29.611757393947 ]
+    },
+    "properties": {
+    "Id":10511,
+    "Username":"Kamal Almora Uttarakhand",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.2045427333333,27.2130090866271 ]
+    },
+    "properties": {
+    "Id":10513,
+    "Username":"Narayan Singh Choudhary Nadbai Rajasthan",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.3357229508594,29.4475554540077 ]
+    },
+    "properties": {
+    "Id":10514,
+    "Username":"Shivanu dhampur UP",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.2400785510645,27.8002009255319 ]
+    },
+    "properties": {
+    "Id":10520,
+    "Username":"pardeep",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.6848143735651,28.889144094322 ]
+    },
+    "properties": {
+    "Id":10530,
+    "Username":"Suresh Sharma Sitarganj Uttarakhand",
+    "BrandName":"Dilbagh",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.9568317748667,25.5902105226094 ]
+    },
+    "properties": {
+    "Id":10282,
+    "Username":"Abhay (Patna & Ara, Bihar) ",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.9024328772044,26.6826047750238 ]
+    },
+    "properties": {
+    "Id":10283,
+    "Username":"Arpan Nath (TEZPUR, North East)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.6898744307555,29.4697016313842 ]
+    },
+    "properties": {
+    "Id":10284,
+    "Username":"Firoz (Muzaffarnagar, UP West)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8041730594234,21.1737523404731 ]
+    },
+    "properties": {
+    "Id":10285,
+    "Username":"Hitesh Chawda (Surat, Gujarat)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.8005304135244,19.3094269206171 ]
+    },
+    "properties": {
+    "Id":10286,
+    "Username":"Jitu Sethi (Berhampur, Odisha)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.1302415000651,26.6914541508492 ]
+    },
+    "properties": {
+    "Id":10288,
+    "Username":"Partha Jyoti Das (JORHAT, North East)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.9830816468523,21.4700039362835 ]
+    },
+    "properties": {
+    "Id":10289,
+    "Username":"Vimal Varu (Sambalpur, Odisha)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.0148684825159,27.1752996522099 ]
+    },
+    "properties": {
+    "Id":10291,
+    "Username":"Raja Babu (UP Agra) ",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.1385159973406,25.4159055354432 ]
+    },
+    "properties": {
+    "Id":10292,
+    "Username":"Navneet Kumar (Begusarai, Bihar)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.6747340486496,26.3523005700386 ]
+    },
+    "properties": {
+    "Id":10293,
+    "Username":"Shivam Sakia (NOGAON, North East)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.7013133628762,27.5336978351408 ]
+    },
+    "properties": {
+    "Id":10294,
+    "Username":"Ajit Singh (UPW Mathura)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.4178799546706,23.2439263829128 ]
+    },
+    "properties": {
+    "Id":10295,
+    "Username":"Ranveer Ahirwar (Bhopal, MP)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.806215509805,28.827224909943 ]
+    },
+    "properties": {
+    "Id":10296,
+    "Username":"Vicky Verma (Moradabad, UP west)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.8300140889468,20.309394621901 ]
+    },
+    "properties": {
+    "Id":10297,
+    "Username":"Wasim (Bhubaneswar, Odisha)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.3915811033063,22.5913821820403 ]
+    },
+    "properties": {
+    "Id":10301,
+    "Username":"Debabrata (KOLKATA, WB)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.3922637973224,26.1151479724787 ]
+    },
+    "properties": {
+    "Id":10304,
+    "Username":"Dhiraj Kumar (MUZAFFARPUR, Bihar)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.6408830858146,21.2467138104414 ]
+    },
+    "properties": {
+    "Id":10305,
+    "Username":"Prem Rupani (RAIPUR, Chhattisgarh)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.1578240638871,23.5530075420337 ]
+    },
+    "properties": {
+    "Id":10306,
+    "Username":"Dipak Sarkar ( Birbhum, Murshidabad,Nadia, Parganas, Hooghly ,WB)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.804454679234,24.8122863592675 ]
+    },
+    "properties": {
+    "Id":10308,
+    "Username":"Debashish ( Silchar, North East )",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.9314746993392,21.4951175710689 ]
+    },
+    "properties": {
+    "Id":10309,
+    "Username":"Tanmay Behera (Balasore, Odisha)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.9198103374161,26.6557183167905 ]
+    },
+    "properties": {
+    "Id":10311,
+    "Username":"Aryan Singh (Motihari, Bihar)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.426297838971,28.3505495484189 ]
+    },
+    "properties": {
+    "Id":10312,
+    "Username":"Mayank Mishra (Bareilly, UP West) ",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.0692063652295,23.2444516785237 ]
+    },
+    "properties": {
+    "Id":10314,
+    "Username":"Mrinmoy Nandi (Bakura, WB )",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.7989932780418,22.2984042918686 ]
+    },
+    "properties": {
+    "Id":10315,
+    "Username":"Sohil Amreliya( Rajkot, Gujarat)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.7155749184514,28.9798796641528 ]
+    },
+    "properties": {
+    "Id":10316,
+    "Username":"Deepak Pundir(Meerut,UP )",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.8433965308624,22.2267233014269 ]
+    },
+    "properties": {
+    "Id":10317,
+    "Username":"Ravi Murmu (Rourkela , Odisha)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.4739249897194,25.7784978801972 ]
+    },
+    "properties": {
+    "Id":10318,
+    "Username":"Suman Yadav( Purnia, Bihar)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.3058838728367,23.4999807967408 ]
+    },
+    "properties": {
+    "Id":10319,
+    "Username":"Bidyut Banik( Durgapur,WB)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.3651343895313,26.3422953582879 ]
+    },
+    "properties": {
+    "Id":10322,
+    "Username":"Abhjieet Ry( Coochbehar, WB)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.646649726285,21.8313098734025 ]
+    },
+    "properties": {
+    "Id":10323,
+    "Username":"Arsed Uddin ( East Midnapur, WB )",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.3152047142821,26.474968393466 ]
+    },
+    "properties": {
+    "Id":10327,
+    "Username":"Rohit Vishwakarma ( Kanpur, UPE)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.9492729492179,25.3538555655999 ]
+    },
+    "properties": {
+    "Id":10328,
+    "Username":"Gaurav Dey (Varanasi, UP)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 81.8249485947407,25.4415079170908 ]
+    },
+    "properties": {
+    "Id":10329,
+    "Username":"Rajesh Yadav (Prayagraj, UP East)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5461688273171,29.964175986565 ]
+    },
+    "properties": {
+    "Id":10330,
+    "Username":"Akshit Kahsyap (Saharanpur, UP)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.2719711257226,26.4063280725893 ]
+    },
+    "properties": {
+    "Id":10345,
+    "Username":"Dhanjeet Kumar( kokrajhar, bilasipara)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.9505623574596,26.8585054300347 ]
+    },
+    "properties": {
+    "Id":10348,
+    "Username":"Mainuddin( Lucknow, UPE)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.8381041219397,24.5742260826007 ]
+    },
+    "properties": {
+    "Id":10371,
+    "Username":"Jiten Singh (Satna, MP)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.3840649042679,23.8442999030843 ]
+    },
+    "properties": {
+    "Id":10372,
+    "Username":"Rajendra, Katni, MP",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.5535686302581,26.4831583265218 ]
+    },
+    "properties": {
+    "Id":10373,
+    "Username":" Sanku mondal",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.4741533108118,26.2917319318633 ]
+    },
+    "properties": {
+    "Id":10374,
+    "Username":"Dip (Nalbari, Baihata Charali, Rangia Assam) ",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.1315928221839,20.9500500423084 ]
+    },
+    "properties": {
+    "Id":10376,
+    "Username":"Mitesh Gupta (Jajpur. Odisha)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.6436472737461,23.1626411568714 ]
+    },
+    "properties": {
+    "Id":10380,
+    "Username":"Milan Dutta (Purulia , West Bengal)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.6417547250962,27.530919029929 ]
+    },
+    "properties": {
+    "Id":10387,
+    "Username":"Jintu Gogoi (Demaji, Assam)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.10271439191,27.2345098387679 ]
+    },
+    "properties": {
+    "Id":10388,
+    "Username":"Kuldeep Borah(north Lakhimpur)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.6016021152075,26.6405318190013 ]
+    },
+    "properties": {
+    "Id":10390,
+    "Username":"RONAK SHARMA ( Bokaghat, Assam)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.1988437898921,22.8031299323244 ]
+    },
+    "properties": {
+    "Id":10395,
+    "Username":"Prashan Das (Jamshedpur, Jharkhand)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.5790092716232,23.0342499804749 ]
+    },
+    "properties": {
+    "Id":10396,
+    "Username":"Deepak Singh (Ahmedabad, Gujarat)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.4908731333333,20.7049217524433 ]
+    },
+    "properties": {
+    "Id":10398,
+    "Username":"Sabiya (Bajpayee Nagar, Balangir, Odisha)\t",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.2317315052304,26.2302901234423 ]
+    },
+    "properties": {
+    "Id":10409,
+    "Username":"Pankaj Kumar (Kokrajhar, Bilasipara, Assam0",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.1807359,26.2134546532362 ]
+    },
+    "properties": {
+    "Id":10414,
+    "Username":" Ray singh (Gwalior, MP)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.3299523490097,23.3703359421626 ]
+    },
+    "properties": {
+    "Id":10415,
+    "Username":"SOURAV RANJAN (Ranchi, Jharkhand)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.351398099611,22.3656820369271 ]
+    },
+    "properties": {
+    "Id":10417,
+    "Username":"Santosh Singh(S24, Parganas, West Bengal)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 86.9444616990128,23.6884105421221 ]
+    },
+    "properties": {
+    "Id":10421,
+    "Username":"Akshay Raj ( Asansol, WB)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.276658480107,23.8612075335378 ]
+    },
+    "properties": {
+    "Id":10424,
+    "Username":"Mitan paul ( Agartala, Tripura)",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.8247839995014,26.915103374768 ]
+    },
+    "properties": {
+    "Id":10430,
+    "Username":"ChandraMohan Saini  (Jaipur )",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.1578906972687,29.9469206790182 ]
+    },
+    "properties": {
+    "Id":10437,
+    "Username":"Akash Arora Haridwar UK",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.3177206273561,22.3724938501386 ]
+    },
+    "properties": {
+    "Id":10440,
+    "Username":"Asim Khan Mednipur",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.3281972994701,23.4912962647896 ]
+    },
+    "properties": {
+    "Id":10443,
+    "Username":"Arjun Sarkar Melagarh Assam",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.6393501666666,26.9889811202884 ]
+    },
+    "properties": {
+    "Id":10444,
+    "Username":"Debangaon Borah Sivasagar Assam",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 92.3420283645349,26.2523685066326 ]
+    },
+    "properties": {
+    "Id":10445,
+    "Username":"Siddhartha Das Morigaon Assam",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8548723645096,15.586457751748 ]
+    },
+    "properties": {
+    "Id":10446,
+    "Username":"Rama MOPA Goa",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.1833134412287,22.3149294853868 ]
+    },
+    "properties": {
+    "Id":10447,
+    "Username":"Sandeep Kadam Baroda ",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.3534347242664,27.4859739560492 ]
+    },
+    "properties": {
+    "Id":10453,
+    "Username":"Dimpal Borah Tinsukia Assam",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.0025659109072,24.7811266780333 ]
+    },
+    "properties": {
+    "Id":10456,
+    "Username":"Rakesh Kumar Gaya Bihar",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.5321994612098,29.2318974083014 ]
+    },
+    "properties": {
+    "Id":10459,
+    "Username":"Govind Singh Haldwani Uttarakhand",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 75.7729115333333,23.1752223523898 ]
+    },
+    "properties": {
+    "Id":10460,
+    "Username":"Farhaan Ali Ujjain MP",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.0926580679838,28.5550798322365 ]
+    },
+    "properties": {
+    "Id":10462,
+    "Username":"Nitesh Rawat Delhi",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.3894099634028,26.7041194256948 ]
+    },
+    "properties": {
+    "Id":10464,
+    "Username":"Chiranjeet Siliguri WB",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.927781805756,23.1542051551398 ]
+    },
+    "properties": {
+    "Id":10465,
+    "Username":"Subodh Jain Jabalpur MP",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3735605626934,26.7533490222471 ]
+    },
+    "properties": {
+    "Id":10466,
+    "Username":"Ankit Gorakhpur UP",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1123146149643,28.5292706961631 ]
+    },
+    "properties": {
+    "Id":10496,
+    "Username":"Rashid Delhi",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.701330061715,27.5332625982279 ]
+    },
+    "properties": {
+    "Id":10499,
+    "Username":"Vikesh Kumar Vrindavan UP",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.426000828719,28.3507630671173 ]
+    },
+    "properties": {
+    "Id":10500,
+    "Username":"Karan Singh Bareilly UP",
+    "BrandName":"Siggnature",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4990937468868,17.4021781517501 ]
+    },
+    "properties": {
+    "Id":10463,
+    "Username":"Sanjay Vada Hyderabad",
+    "BrandName":"HOT",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1234953760035,28.8322141217515 ]
+    },
+    "properties": {
+    "Id":10496,
+    "Username":"Rashid Delhi",
+    "BrandName":"Jindal Steel",
+    "Type":"Convex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.7772413653749,28.7676590205611 ]
+    },
+    "properties": {
+    "Id":10549,
+    "Username":"Praveen Kumar Rohtak Haryana",
+    "BrandName":"Jindal Steel",
+    "Type":"Convex"
+    }
+  }
+]
+}
